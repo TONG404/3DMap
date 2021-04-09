@@ -1,0 +1,36 @@
+{
+	"title_list":["信息内容","地图信息","人数统计","课程统计","学院介绍"],
+	"boy_nums":700,
+	"girl_nums":700,
+	"colomn1":
+	{
+		"name":"设计学院学习人数",
+		"value":700
+	},
+	"colomn2":
+	{
+		"name":"互联网学院学习人数",
+		"value":300
+	},
+	"course":
+	{
+		"stdio_kinds_nums":5,
+		"stdio_name_and_nums":
+		{
+			"java工作室课程数量":30,
+			"大数据工作室课程数量":30,
+			"CSS工作室课程数量":40,
+			"工业设计工作室":20,
+			"视觉传达工作室":40
+		},
+		"x_label":"工作室种类",
+		"x_scale":5,
+		"y_label":"课程数量",
+		"y_scale":45
+	},
+	"college_info":
+	{
+		"internet_college":"我是互联网学院的说明信息",
+		"design_college":"我是设计学院的说明信息"
+	}
+}
